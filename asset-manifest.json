@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cum-te-simti/static/css/main.1da12aee.css",
-    "main.js": "/cum-te-simti/static/js/main.f728d3fc.js",
+    "main.css": "/cum-te-simti/static/css/main.826137cc.css",
+    "main.js": "/cum-te-simti/static/js/main.f8047231.js",
     "static/media/Mada-VariableFont_wght.ttf": "/cum-te-simti/static/media/Mada-VariableFont_wght.2e6c0ecbf76308918bd2.ttf",
     "index.html": "/cum-te-simti/index.html",
-    "main.1da12aee.css.map": "/cum-te-simti/static/css/main.1da12aee.css.map",
-    "main.f728d3fc.js.map": "/cum-te-simti/static/js/main.f728d3fc.js.map"
+    "main.826137cc.css.map": "/cum-te-simti/static/css/main.826137cc.css.map",
+    "main.f8047231.js.map": "/cum-te-simti/static/js/main.f8047231.js.map"
   },
   "entrypoints": [
-    "static/css/main.1da12aee.css",
-    "static/js/main.f728d3fc.js"
+    "static/css/main.826137cc.css",
+    "static/js/main.f8047231.js"
   ]
 }
