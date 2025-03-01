@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cum-te-simti/static/css/main.b8de07ff.css",
+    "main.js": "/cum-te-simti/static/js/main.50a1962b.js",
+    "static/media/Mada-VariableFont_wght.ttf": "/cum-te-simti/static/media/Mada-VariableFont_wght.2e6c0ecbf76308918bd2.ttf",
+    "index.html": "/cum-te-simti/index.html",
+    "main.b8de07ff.css.map": "/cum-te-simti/static/css/main.b8de07ff.css.map",
+    "main.50a1962b.js.map": "/cum-te-simti/static/js/main.50a1962b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8de07ff.css",
+    "static/js/main.50a1962b.js"
+  ]
+}
